@@ -33,7 +33,7 @@
           </execution>
           <execution>
             <id>post-unit-test</id>
-            <phase>prepare-package</phase>
+            <phase>report</phase>
             <goals>
               <goal>report</goal>
             </goals>
